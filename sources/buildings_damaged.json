@@ -1,0 +1,4187 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.019756,44.94992 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:42",
+    "business_name":"Metro by T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"1911 Suburban Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.011437,44.952545 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:37",
+    "business_name":"T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"2111A Old Hudson Rd",
+    "damage_cat":"Property damage",
+    "Description":"Shattered windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.010443,44.951766 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:38",
+    "business_name":"Caribou Coffee",
+    "BusinessType":"restaurant",
+    "New Business type":"coffee shop",
+    "Address":"2133 Old Hudson Rd #3",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.01634,44.949233 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 8:47",
+    "business_name":"Dollar General",
+    "BusinessType":"dollar store",
+    "New Business type":"dollar store",
+    "Address":"1990 Suburban Ave",
+    "damage_cat":"Property damage",
+    "Description":"Exterior fire damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.008918,44.95222 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:39",
+    "business_name":"Dollar Tree",
+    "BusinessType":"dollar store",
+    "New Business type":"dollar store",
+    "Address":"2157 Old Hudson Rd",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.024489,44.950028 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:45",
+    "business_name":"BP",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"1785 Suburban Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.03913,44.962827 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:03",
+    "business_name":"Holiday",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"1444 Minnehaha Ave E",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.025741,44.953132 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:33",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"1771 Old Hudson Rd",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.007633,44.952103 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 7:45",
+    "business_name":"Cub Foods",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"2197 Old Hudson Rd",
+    "damage_cat":"Property damage",
+    "Description":"Looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.024506,44.952254 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:29",
+    "business_name":"Walgreens",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"1788 Old Hudson Rd",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.022465,44.950075 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:46",
+    "business_name":"McDonald's",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1841 Suburban Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.019886,44.94985 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:41",
+    "business_name":"Papa John's",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1909 Suburban Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, multiple broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.010169,44.952502 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 16:17",
+    "business_name":"Citi Trends",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"2135 Old Hudson Rd",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.00986,44.952449 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 16:16",
+    "business_name":"Rainbow Shops",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"2139 Old Hudson Rd",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.010505,44.952519 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:33",
+    "business_name":"Chicago Nails",
+    "BusinessType":"services",
+    "New Business type":"salon/barber",
+    "Address":"2125 Old Hudson Rd",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.010861,44.952542 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:33",
+    "business_name":"DTLR",
+    "BusinessType":"retail",
+    "New Business type":"shoe store",
+    "Address":"2119 Old Hudson Rd",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.011299,44.952514 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:35",
+    "business_name":"Smokes Vapor Zone",
+    "BusinessType":"retail",
+    "New Business type":"tobacco",
+    "Address":"2111 Old Hudson Rd",
+    "damage_cat":"Property damage",
+    "Description":"Shattered windows, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.024391,44.989741 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:18",
+    "business_name":"Boost Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"1614 White Bear Ave N",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.025622,44.990419 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:21",
+    "business_name":"Cricket Wireless",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"1627 White Bear Ave",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.044609,44.977232 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 8:59",
+    "business_name":"Metro by T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"1320 Maryland Ave E",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0248,44.987989 ]
+    },
+    "properties": {
+    "Timestamp":"6/10/20 12:48",
+    "business_name":"Dollar General",
+    "BusinessType":"dollar store",
+    "New Business type":"dollar store",
+    "Address":"1546 White Bear Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.042404,44.978025 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:01",
+    "business_name":"East Side Liquor",
+    "BusinessType":"liquor store",
+    "New Business type":"liquor store",
+    "Address":"1363 Maryland Ave E",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.025639,44.991359 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:28",
+    "business_name":"Walgreens",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"1665 White Bear Ave",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.024398,44.990499 ]
+    },
+    "properties": {
+    "Timestamp":"6/10/20 11:48",
+    "business_name":"Pro Nails",
+    "BusinessType":"services",
+    "New Business type":"services",
+    "Address":"1630 White Bear Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.067147,44.961137 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:27",
+    "business_name":"Manana Salvadorian Restaurant",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"798 E 7th St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.066674,44.961372 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:29",
+    "business_name":"Kalied Organic Spa and Salon",
+    "BusinessType":"services",
+    "New Business type":"salon/barber",
+    "Address":"800 E 7th St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06564,44.966429 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:48",
+    "business_name":"AutoZone Auto Parts",
+    "BusinessType":"auto",
+    "New Business type":"auto",
+    "Address":"846 Arcade St",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.064667,44.967446 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:41",
+    "business_name":"Home Choice ",
+    "BusinessType":"retail",
+    "New Business type":"big retail",
+    "Address":"870 Arcade St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.066509,44.968039 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:31",
+    "business_name":"Boost Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"889 Arcade St",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.066108,44.977823 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:45",
+    "business_name":"Boost Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"1209 Arcade St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.065671,44.977696 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:33",
+    "business_name":"Metro by T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"825 Maryland Ave E",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows, attempted looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.060718,44.977399 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 8:53",
+    "business_name":"Metro by T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"1200 Forest St N",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.073821,44.970947 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:50",
+    "business_name":"Metro by T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"983 Payne Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.064644,44.967562 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 9:59",
+    "business_name":"T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"878 Arcade St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0741,44.97323 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:58",
+    "business_name":"Dollar General",
+    "BusinessType":"dollar store",
+    "New Business type":"dollar store",
+    "Address":"1055 Payne Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0832,44.97718 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 13:02",
+    "business_name":"Marathon",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"406 Maryland Ave E",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.084083,44.976813 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:37",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"390 Maryland Ave E",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.074,44.96727 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:54",
+    "business_name":"Bymore Mercado",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"857 Payne Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0737,44.96899 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:56",
+    "business_name":"East Side Grocery",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"913 Payne Ave Ste C",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.065835,44.97178 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:43",
+    "business_name":"Health and Wellness Chiropractic",
+    "BusinessType":"healthcare",
+    "New Business type":"healthcare",
+    "Address":"1008 Arcade St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.073344,44.970818 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:51",
+    "business_name":"Payne Ave Wine & Spirits",
+    "BusinessType":"liquor store",
+    "New Business type":"liquor store",
+    "Address":"980 Payne Ave",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.065835,44.974489 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:43",
+    "business_name":"Walfoort Liquor Store",
+    "BusinessType":"liquor store",
+    "New Business type":"liquor store",
+    "Address":"1100 Arcade St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.074,44.96824 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:54",
+    "business_name":"Pebmoob Senior Center",
+    "BusinessType":"non-profit",
+    "New Business type":"non-profit",
+    "Address":"899 Payne Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.066352,44.976967 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:47",
+    "business_name":"CVS",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"810 Maryland Ave E",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.065541,44.976885 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:44",
+    "business_name":"Walgreens",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"1180 Arcade St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.065812,44.977699 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:47",
+    "business_name":"Taqueria El Buen Gusto",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"821 Maryland Ave E",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06554,44.977655 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:48",
+    "business_name":"Boba & Tea",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"827 Maryland Ave E",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0733,44.97463 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:59",
+    "business_name":"Cafe Lilla Wine Bar",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1110 Payne Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0738,44.97587 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 13:00",
+    "business_name":"Cora's Best Chicken Wings",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1143 Payne Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0732,44.97174 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:57",
+    "business_name":"Hur Feng Cafe/Sui Yep Cafe",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1010 Payne Ave #3933",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0732,44.96627 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:53",
+    "business_name":"Ace Hardware",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"840 Payne Ave ",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.080571,44.955379 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:23",
+    "business_name":"Best Pawn",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"525 E 7th St",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0732,44.97757 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 13:01",
+    "business_name":"Cash 4 Gold/King's Ransom Gold & Silver",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1202 Payne Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.073715,44.96742 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:51",
+    "business_name":"La Chica Fashion",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"863 Payne Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.064272,44.968348 ]
+    },
+    "properties": {
+    "Timestamp":"6/12/20 12:42",
+    "business_name":"Beyond Tobacco",
+    "BusinessType":"retail",
+    "New Business type":"tobacco",
+    "Address":"898 Arcade St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.105658,44.97685 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:18",
+    "business_name":"Boost Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"1194 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.105477,44.97003 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:13",
+    "business_name":"I Wireless",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"952 Rice St ",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.105785,44.968142 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:11",
+    "business_name":"Metro by T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"890 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.106188,44.980842 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:20",
+    "business_name":"Metro by T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"1317 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.105445,44.976883 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:19",
+    "business_name":"Rice St Market/Minnoco",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"1200 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.106535,44.990396 ]
+    },
+    "properties": {
+    "Timestamp":"6/10/20 16:17",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"1625 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.10647,44.969429 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:15",
+    "business_name":"Big Discount Liquor",
+    "BusinessType":"liquor store",
+    "New Business type":"liquor store",
+    "Address":"945 Rice St Ste C",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.106483,44.969866 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:13",
+    "business_name":"Subway",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"945 Rice St Ste E",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.105408,44.970091 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:12",
+    "business_name":"Chick 'N Chips",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"954 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.10538,44.976951 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:16",
+    "business_name":"Rice and Maryland Tobacco",
+    "BusinessType":"retail",
+    "New Business type":"tobacco",
+    "Address":"1196 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.105436,44.970191 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:12",
+    "business_name":"Rice St Tobacco",
+    "BusinessType":"retail",
+    "New Business type":"tobacco",
+    "Address":"956 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.139271,44.955942 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 22:30",
+    "business_name":"A Auto Mall",
+    "BusinessType":"auto",
+    "New Business type":"auto",
+    "Address":"923 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Smashed doors/windows, property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.145359,44.956056 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 8:46",
+    "business_name":"AutoZone Auto Parts",
+    "BusinessType":"auto",
+    "New Business type":"auto",
+    "Address":"1075 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Fire, property damage; roof structure unsafe",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.121476,44.961442 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:39",
+    "business_name":"Nickel Joint Sports Bar",
+    "BusinessType":"restaurant",
+    "New Business type":"bar",
+    "Address":"501 Blair Ave",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows; dumpster fire",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.125533,44.955988 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:46",
+    "business_name":"Boost Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"605 University Ave W",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.146276,44.955628 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:17",
+    "business_name":"Cricket Wireless",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"476 Lexington Pkwy N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11582,44.955949 ]
+    },
+    "properties": {
+    "Timestamp":"6/3/20 22:04",
+    "business_name":"Hmong Cultural Center",
+    "BusinessType":"entertainment",
+    "New Business type":"entertainment",
+    "Address":"375 University Ave W #204",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.146273,44.955717 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:16",
+    "business_name":"UnBank Check Cashing & Loans",
+    "BusinessType":"financial",
+    "New Business type":"financial",
+    "Address":"1098 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.108434,44.955227 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:09",
+    "business_name":"St Paul License Bureau",
+    "BusinessType":"government",
+    "New Business type":"government",
+    "Address":"200 University Ave W #150",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11228,44.956046 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 22:32",
+    "business_name":"88 Oriental Foods",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"291 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.106214,44.95745 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 22:32",
+    "business_name":"Friendly Grocery",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"537 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.105776,44.956953 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:11",
+    "business_name":"Frogtown Market",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"516 Rice St Suite 2",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.115101,44.955936 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:09",
+    "business_name":"Little Saigon Supermarket",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"353 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.105784,44.956976 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:07",
+    "business_name":"Max Mart-Frogtown",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"516 Rice St ",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.112601,44.956051 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:09",
+    "business_name":"St Paul Clinic",
+    "BusinessType":"healthcare",
+    "New Business type":"healthcare",
+    "Address":"301 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.124151,44.95594 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:41",
+    "business_name":"CWHP",
+    "BusinessType":"non-profit",
+    "New Business type":"non-profit",
+    "Address":"565 University Ave W",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.130305,44.955921 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:08",
+    "business_name":"Lifetrack",
+    "BusinessType":"non-profit",
+    "New Business type":"non-profit",
+    "Address":"709 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken window",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.10611,44.956946 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:10",
+    "business_name":"Drawing on Rice Street",
+    "BusinessType":"other",
+    "New Business type":"other",
+    "Address":"511 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.125349,44.955984 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:45",
+    "business_name":"Subway",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"599 University Ave W",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.136784,44.955801 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:15",
+    "business_name":"Homi",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"864 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.109781,44.956096 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:10",
+    "business_name":"King Thai",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"225 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.133779,44.956091 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:07",
+    "business_name":"Ngon Vietnamese Bistro",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"799 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.106164,44.95653 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:10",
+    "business_name":"White Castle",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"505 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Looting, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11808,44.955962 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:08",
+    "business_name":"Dulceria Esmeralda",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"429 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken window",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.135521,44.955913 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 22:31",
+    "business_name":"Phenom",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"839 University Ave W #107",
+    "damage_cat":"Property damage",
+    "Description":"Broken doors/windows, property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.124566,44.955905 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:08",
+    "business_name":"OMG Nails",
+    "BusinessType":"services",
+    "New Business type":"salon/barber",
+    "Address":"577 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.139467,44.955903 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:07",
+    "business_name":"Mawa African Hair Braiding",
+    "BusinessType":"services",
+    "New Business type":"salon/barber",
+    "Address":"929 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.142179,44.956067 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:06",
+    "business_name":"Farmers Insurance",
+    "BusinessType":"services",
+    "New Business type":"services",
+    "Address":"995 University Ave W Ste 100",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11116,44.956088 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:09",
+    "business_name":"Team Personnel",
+    "BusinessType":"services",
+    "New Business type":"services",
+    "Address":"259 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken glass, rear door damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.137097,44.955873 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 22:31",
+    "business_name":"U-Haul",
+    "BusinessType":"services",
+    "New Business type":"services",
+    "Address":"881 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, smashed windows/doors",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.129424,44.955729 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:14",
+    "business_name":"Universal Hair Design",
+    "BusinessType":"services",
+    "New Business type":"services",
+    "Address":"690 University Ave W #104",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.106206,44.956866 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:08",
+    "business_name":"Vacant building",
+    "BusinessType":"vacant",
+    "New Business type":"vacant",
+    "Address":"511 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.122507,44.955255 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:13",
+    "business_name":"Midas",
+    "BusinessType":"auto",
+    "New Business type":"auto",
+    "Address":"520 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken window",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.145643,44.954508 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 10:24",
+    "business_name":"O'Reilly Auto Parts",
+    "BusinessType":"auto",
+    "New Business type":"auto",
+    "Address":"448 Lexington Pkwy N",
+    "damage_cat":"Fire",
+    "Description":"Fire, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.129356,44.955479 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:15",
+    "business_name":"Pay Less Tires",
+    "BusinessType":"auto",
+    "New Business type":"auto",
+    "Address":"698 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Smashed window",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.146213,44.952565 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:17",
+    "business_name":"BP",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"374 Lexington Pkwy N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.141245,44.9553 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 10:44",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"970 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Fire, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.124295,44.954925 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:13",
+    "business_name":"Sun Foods",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"544 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Looting, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.115285,44.955517 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:11",
+    "business_name":"Western Grocery",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"360 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.124763,44.954801 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:13",
+    "business_name":"CSL Plasma",
+    "BusinessType":"non-profit",
+    "New Business type":"non-profit",
+    "Address":"572 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.111246,44.955498 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 10:54",
+    "business_name":"Springboard for the Arts",
+    "BusinessType":"other",
+    "New Business type":"other",
+    "Address":"262 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Fire and property damage ",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.125057,44.955234 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 11:15",
+    "business_name":"Fire 'N' Ice Chicken",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"600 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.117564,44.95519 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:12",
+    "business_name":"Little Szechuan Hot Pot",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"422 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.109663,44.955493 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:11",
+    "business_name":"McDonald's",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"471 Marion St",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.109891,44.955528 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:10",
+    "business_name":"McDonald's",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"471 Marion St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.121451,44.955558 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:12",
+    "business_name":"Trieu Chau",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"500 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.125531,44.955229 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:14",
+    "business_name":"Wendy's",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"612 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.125183,44.955215 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 11:07",
+    "business_name":"7-Mile Sportswear",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"590 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, heavy looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.136806,44.955358 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:16",
+    "business_name":"Jalisa's",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"866 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.146273,44.954973 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:17",
+    "business_name":"Scale Model Supplies",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"458 Lexington Pkwy N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.125056,44.955126 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:42",
+    "business_name":"TJ Nails",
+    "BusinessType":"services",
+    "New Business type":"salon/barber",
+    "Address":"598 University Ave W",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows; water damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.108976,44.939501 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 12:29",
+    "business_name":"Bonfe's Auto Service & Body Repair",
+    "BusinessType":"auto",
+    "New Business type":"auto",
+    "Address":"380 7th St W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11737,44.933782 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 12:33",
+    "business_name":"Metro by T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"666 7th St W ",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.118178,44.933975 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 12:31",
+    "business_name":"BP",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"675 7th St W",
+    "damage_cat":"Property damage",
+    "Description":"Smashed window, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.131658,44.92484 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 12:38",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"1125 7th St W",
+    "damage_cat":"Property damage",
+    "Description":"Smashed window, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.139716,44.919369 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 12:38",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"1445 7th St W",
+    "damage_cat":"Property damage",
+    "Description":"Smashed window, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.116837,44.934781 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 12:40",
+    "business_name":"Cooper's Foods",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"633 7th St W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.11747,44.934415 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 11:18",
+    "business_name":"Liquor Barrel",
+    "BusinessType":"liquor store",
+    "New Business type":"liquor store",
+    "Address":"665 7th St W",
+    "damage_cat":"Property damage",
+    "Description":"Looting, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.106337,44.941939 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 12:28",
+    "business_name":"Walgreens",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"360 Sherman St",
+    "damage_cat":"Property damage",
+    "Description":"Smashed window",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.122848,44.930984 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 12:34",
+    "business_name":"McDonald's",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"551 W Jefferson Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.126122,44.927885 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 12:35",
+    "business_name":"Best Pawn",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"966 7th St W",
+    "damage_cat":"Property damage",
+    "Description":"Smashed window, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.146942,44.991866 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 8:52",
+    "business_name":"Walgreens",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"1110 Larpenteur Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.16743,44.95704 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"Dey Appliance Parts",
+    "BusinessType":"auto",
+    "New Business type":"auto",
+    "Address":"525 Snelling Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.153909,44.95605 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 7:44",
+    "business_name":"NAPA Auto Parts",
+    "BusinessType":"auto",
+    "New Business type":"auto",
+    "Address":"1271 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Heavy fire damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.160044,44.956006 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"Black Hart",
+    "BusinessType":"restaurant",
+    "New Business type":"bar",
+    "Address":"1415 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.166366,44.956001 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:17",
+    "business_name":"Midway Saloon",
+    "BusinessType":"restaurant",
+    "New Business type":"bar",
+    "Address":"1567 University Ave W",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.165586,44.956014 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:04",
+    "business_name":"Trend Bar",
+    "BusinessType":"restaurant",
+    "New Business type":"bar",
+    "Address":"1537 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Smashed window, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.164218,44.955903 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 11:50",
+    "business_name":"Boost Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"1499 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Destoryed by fire",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.165612,44.955925 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"Metro by T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"1539 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.167969,44.955993 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 15:55",
+    "business_name":"Turf Club",
+    "BusinessType":"entertainment",
+    "New Business type":"entertainment",
+    "Address":"1601 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Looted, flooded by sprinkler damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.157115,44.956035 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 14:15",
+    "business_name":"BP",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"1347 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken window, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.166728,44.958517 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"Holiday",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"600 Snelling Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.166741,44.963617 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"756 Snelling Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.167373,44.96261 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 22:29",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"717 Snelling Ave N",
+    "damage_cat":"Fire",
+    "Description":"Small fire, heavy looting, smashed doors/windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.148558,44.955693 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"Aldi",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"1134 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows; looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1667,44.956313 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"Snelling Avenue Fine Wines",
+    "BusinessType":"liquor store",
+    "New Business type":"liquor store",
+    "Address":"500 Snelling Ave N",
+    "damage_cat":"Fire",
+    "Description":"Property damage, looting, heavy fire",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.165837,44.95597 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:16",
+    "business_name":"Ashton Building",
+    "BusinessType":"office building",
+    "New Business type":"office building",
+    "Address":"1549 University Ave W",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.177506,44.956354 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:02",
+    "business_name":"Unspecified building",
+    "BusinessType":"other",
+    "New Business type":"other",
+    "Address":"1825 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.166553,44.956013 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:04",
+    "business_name":"Unspecified building",
+    "BusinessType":"other",
+    "New Business type":"other",
+    "Address":"1575 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.167374,44.956044 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:02",
+    "business_name":"CVS",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"499 Snelling Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Heavy property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.166767,44.962743 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 9:21",
+    "business_name":"Lloyd's Pharmacy",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"720 Snelling Ave N",
+    "damage_cat":"Fire",
+    "Description":"Destroyed by fire",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.167402,44.958207 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"Taco Bell",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"565 Snelling Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.154102,44.956016 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 11:04",
+    "business_name":"Bole Ethiopian Restaurant",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"490 Syndicate St N",
+    "damage_cat":"Fire",
+    "Description":"Destroyed by fire",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.163455,44.955948 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"Culver's",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1491 University Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows, property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.166568,44.956429 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:01",
+    "business_name":"Fasika",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"510 Snelling Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.147091,44.956045 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:06",
+    "business_name":"Hoa Bien",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1105 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.170015,44.955864 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:03",
+    "business_name":"J J Fish & Chicken",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1647 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.156549,44.955939 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:05",
+    "business_name":"Magic Noodle",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1337 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.164899,44.955914 ]
+    },
+    "properties": {
+    "Timestamp":"5/28/20 14:00",
+    "business_name":"maX it PAWN",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1519 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken doors/windows, heavy property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.168155,44.955864 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 22:29",
+    "business_name":"All Nations Beauty Supply",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1605 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.169416,44.955929 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 20:34",
+    "business_name":"Ax-man Surplus",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1639 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken door/windows, graffiti, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.158777,44.956022 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 7:45",
+    "business_name":"Furniture Barn",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1389 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Shattered windows, water damage, minor fire, heavily looted",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.152212,44.956026 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 7:45",
+    "business_name":"Goodwill",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1239 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Windows smashed, water damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.150117,44.955924 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:06",
+    "business_name":"Hair Plus Wigs",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1183 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.164335,44.956009 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 7:44",
+    "business_name":"Sports Dome",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1505 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Destroyed by fire",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.167262,44.95911 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"Vig Guitars",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"595 Snelling Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.16078,44.955893 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:05",
+    "business_name":"W E Mowrey Co",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1435 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.166428,44.955866 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:04",
+    "business_name":"Roni's Beauty Supply & Hair-Braiding Salon",
+    "BusinessType":"services",
+    "New Business type":"salon/barber",
+    "Address":"1569 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.150754,44.95594 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 22:30",
+    "business_name":"Bright Start Child Care Center",
+    "BusinessType":"services",
+    "New Business type":"school/daycare",
+    "Address":"1197 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Multiple attempted break-ins, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.150754,44.95594 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 22:30",
+    "business_name":"Ananya Dance Theatre",
+    "BusinessType":"services",
+    "New Business type":"services",
+    "Address":"1197 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.149362,44.956059 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 12:21",
+    "business_name":"Enterprise Rent-A-Car",
+    "BusinessType":"services",
+    "New Business type":"services",
+    "Address":"1161 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Fire damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.164673,44.955904 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 11:49",
+    "business_name":"DTLR",
+    "BusinessType":"retail",
+    "New Business type":"shoe store",
+    "Address":"1515 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows/doors, smoke damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162514,44.955974 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"Midway Tobacco and Vapor",
+    "BusinessType":"retail",
+    "New Business type":"tobacco",
+    "Address":"1475 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162473,44.955979 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 9:52",
+    "business_name":"Midway Tobacco Outlet Plus",
+    "BusinessType":"retail",
+    "New Business type":"tobacco",
+    "Address":"1418 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Looting, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.167237,44.96161 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:01",
+    "business_name":"Vape Pro's",
+    "BusinessType":"retail",
+    "New Business type":"tobacco",
+    "Address":"681 Snelling Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.157314,44.955069 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 12:25",
+    "business_name":"Discount Tire",
+    "BusinessType":"auto",
+    "New Business type":"auto",
+    "Address":"1350 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.166632,44.950068 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 16:36",
+    "business_name":"Tires Plus",
+    "BusinessType":"auto",
+    "New Business type":"auto",
+    "Address":"300 Snelling Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Windows smashed, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.159152,44.953609 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:19",
+    "business_name":"Herberger's",
+    "BusinessType":"retail",
+    "New Business type":"big retail",
+    "Address":"1400 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.160424,44.955134 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:20",
+    "business_name":"Walmart",
+    "BusinessType":"retail",
+    "New Business type":"big retail",
+    "Address":"1450 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.158262,44.955081 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 9:47",
+    "business_name":"Sprint",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"1360 University Ave N Suite 103",
+    "damage_cat":"Property damage",
+    "Description":"WIndows broken, property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162069,44.955148 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 8:48",
+    "business_name":"T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"1460 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.15628,44.955235 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 9:34",
+    "business_name":"Verizon ",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"474 Hamline Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Windows smashed, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.160019,44.953189 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:20",
+    "business_name":"Dollar Tree",
+    "BusinessType":"dollar store",
+    "New Business type":"dollar store",
+    "Address":"1420 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.163338,44.95402 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"Family Dollar",
+    "BusinessType":"dollar store",
+    "New Business type":"dollar store",
+    "Address":"1536 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162995,44.955305 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:21",
+    "business_name":"ACE Cash Express",
+    "BusinessType":"financial",
+    "New Business type":"financial",
+    "Address":"1532 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.147152,44.95474 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 10:40",
+    "business_name":"TCF Bank",
+    "BusinessType":"financial",
+    "New Business type":"financial",
+    "Address":"459 Lexington Pkwy N",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.167343,44.949799 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:42",
+    "business_name":"Holiday",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"281 Snelling Ave N",
+    "damage_cat":"Property damage",
+    "Description":"broken windows; dumpster fire",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.192047,44.947957 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 20:40",
+    "business_name":"Minnoco",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"2178 Marshall Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, burglary",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.147387,44.953246 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 8:47",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"399 Lexington Pkwy N",
+    "damage_cat":"Fire",
+    "Description":"Fire, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.161112,44.95312 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:19",
+    "business_name":"Cub Foods",
+    "BusinessType":"grocery",
+    "New Business type":"grocery",
+    "Address":"1440 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.166717,44.949667 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 9:36",
+    "business_name":"Dermatology Consultants",
+    "BusinessType":"healthcare",
+    "New Business type":"healthcare",
+    "Address":"280 Snelling Ave N",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.157953,44.953999 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:18",
+    "business_name":"Healtheast Midway Clinic",
+    "BusinessType":"healthcare",
+    "New Business type":"healthcare",
+    "Address":"1390 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.163961,44.955337 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 9:49",
+    "business_name":"Big Top Liquors",
+    "BusinessType":"liquor store",
+    "New Business type":"liquor store",
+    "Address":"1544 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Heavy fire damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.153831,44.954732 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 8:47",
+    "business_name":"Community Action",
+    "BusinessType":"non-profit",
+    "New Business type":"non-profit",
+    "Address":"450 Syndicate St N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.169027,44.955365 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:03",
+    "business_name":"Unspecified building",
+    "BusinessType":"other",
+    "New Business type":"other",
+    "Address":"1630 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.154715,44.95315 ]
+    },
+    "properties": {
+    "Timestamp":"5/28/20 14:02",
+    "business_name":"CVS",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"1300 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken Windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162995,44.955305 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:20",
+    "business_name":"Jimmy John's",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1532 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.158326,44.955255 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 11:46",
+    "business_name":"Leeann Chin",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1360 University Ave W Suite 101",
+    "damage_cat":"Fire",
+    "Description":"Windows broken, fire damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.165279,44.955406 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"McDonald's",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1570 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Property damage, fire",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.156301,44.954946 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 9:38",
+    "business_name":"Noodles and Co.",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"470 Hamline Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Windows smashed, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162719,44.954302 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 14:11",
+    "business_name":"Peking Garden",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1488 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Smoke, water damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.147176,44.955388 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:18",
+    "business_name":"White Castle",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"1120 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.157534,44.955206 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 10:37",
+    "business_name":"America's Best Contacts & Eyeglasses",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1360 University Ave W Suite 106",
+    "damage_cat":"Property damage",
+    "Description":"Windows broken, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162401,44.954435 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 12:37",
+    "business_name":"GameStop",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1484 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Extensive fire damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162725,44.955003 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 8:48",
+    "business_name":"GNC",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1470 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.157704,44.955254 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 11:47",
+    "business_name":"Great Health Nutrition",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1360 University Ave W Suite 105",
+    "damage_cat":"Property damage",
+    "Description":"Looting, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162726,44.954848 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 8:49",
+    "business_name":"Rainbow Shops",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1474 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.163343,44.954225 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 8:49",
+    "business_name":"Sally's Beauty Supply",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1526 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.159426,44.952844 ]
+    },
+    "properties": {
+    "Timestamp":"5/28/20 13:49",
+    "business_name":"T.J. Maxx",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1410 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Heavy fire damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.155703,44.95314 ]
+    },
+    "properties": {
+    "Timestamp":"5/28/20 22:17",
+    "business_name":"Target",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1300 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, broken window, minor fire damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.156295,44.955134 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 14:13",
+    "business_name":"The Vitamin Shoppe",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"472 Hamline Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162444,44.954374 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 14:10",
+    "business_name":"To New York",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"1486 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162738,44.954684 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 11:51",
+    "business_name":"Great Clips",
+    "BusinessType":"services",
+    "New Business type":"salon/barber",
+    "Address":"1474 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Extensive fire damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.15127,44.955405 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:18",
+    "business_name":"Gordon Parks High School",
+    "BusinessType":"school",
+    "New Business type":"school/daycare",
+    "Address":"1212 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.149863,44.954427 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 8:53",
+    "business_name":"High School for the Recording Arts",
+    "BusinessType":"school",
+    "New Business type":"school/daycare",
+    "Address":"1166 University Ave W",
+    "damage_cat":"Minor property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162995,44.955305 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 1:21",
+    "business_name":"Apollo Locksmith",
+    "BusinessType":"services",
+    "New Business type":"services",
+    "Address":"1532 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.167342,44.950112 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:42",
+    "business_name":"Birthright",
+    "BusinessType":"services",
+    "New Business type":"services",
+    "Address":"299 Snelling Ave N",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.158062,44.954918 ]
+    },
+    "properties": {
+    "Timestamp":"6/4/20 16:34",
+    "business_name":"L.A. Fitness ",
+    "BusinessType":"services",
+    "New Business type":"services",
+    "Address":"1370 University Ave W",
+    "damage_cat":"Property damage",
+    "Description":"Break-in, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.158283,44.955088 ]
+    },
+    "properties": {
+    "Timestamp":"5/31/20 15:00",
+    "business_name":"The UPS Store",
+    "BusinessType":"services",
+    "New Business type":"services",
+    "Address":"1360 University Ave W Suite 104",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows, property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.162322,44.954558 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 11:34",
+    "business_name":"Foot Locker",
+    "BusinessType":"retail",
+    "New Business type":"shoe store",
+    "Address":"1484 University Ave W",
+    "damage_cat":"Fire",
+    "Description":"Extensive fire damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.157355,44.927339 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:39",
+    "business_name":"Lucky's Station",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"1351 Randolph Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.187035,44.940591 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 14:04",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"2051 Grand Ave",
+    "damage_cat":"Fire",
+    "Description":"Extensive fire damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.176718,44.934615 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:39",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"232 Fairview Ave S",
+    "damage_cat":"Property damage",
+    "Description":"Broken window",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.16738,44.927265 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 10:30",
+    "business_name":"Walgreens",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"1585 Randolph Ave",
+    "damage_cat":"Fire",
+    "Description":"Fire, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.189505,44.917108 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:41",
+    "business_name":"T-Mobile",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"2110 Ford Pkwy",
+    "damage_cat":"Property damage",
+    "Description":"Broken window",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.186403,44.9176 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:40",
+    "business_name":"Verizon",
+    "BusinessType":"cellphone store",
+    "New Business type":"cellphone store",
+    "Address":"2034 Ford Pkwy",
+    "damage_cat":"Property damage",
+    "Description":"Broken window",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.167699,44.917593 ]
+    },
+    "properties": {
+    "Timestamp":"6/2/20 13:19",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"1580 Ford Pkwy",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.1896,44.916503 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:42",
+    "business_name":"Allina Health Highland Park Clinic",
+    "BusinessType":"healthcare",
+    "New Business type":"healthcare",
+    "Address":"2120 Ford Pkwy",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.188721,44.91819 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:40",
+    "business_name":"Walgreens",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"2099 Ford Pkwy",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.195096,44.91813 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:40",
+    "business_name":"Bakers Square Restaurant & Bakery",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"2239 Ford Pkwy",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.189505,44.917173 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:41",
+    "business_name":"Noodles and Co.",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"2110 Ford Pkwy",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.187764,44.918182 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 14:19",
+    "business_name":"R.F. Moeller Jeweler",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"2065 Ford Pkwy",
+    "damage_cat":"Property damage",
+    "Description":"Windows broken, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.187129,44.91845 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 14:20",
+    "business_name":"The Fixery",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"760 Cleveland Ave S",
+    "damage_cat":"Property damage",
+    "Description":"Windows broken, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.141753,44.940186 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:38",
+    "business_name":"Bank Cherokee",
+    "BusinessType":"financial",
+    "New Business type":"financial",
+    "Address":"985 Grand Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.139251,44.940433 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:38",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"925 Grand Ave",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.138719,44.93976 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 16:57",
+    "business_name":"First Grand Avenue Liquor Store",
+    "BusinessType":"liquor store",
+    "New Business type":"liquor store",
+    "Address":"918 Grand Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.131064,44.93968 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 21:37",
+    "business_name":"Walgreens",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"734 Grand Ave",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.131912,44.939772 ]
+    },
+    "properties": {
+    "Timestamp":"6/5/20 20:54",
+    "business_name":"Grand Ole Creamery",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"750 Grand Ave",
+    "damage_cat":"Property damage",
+    "Description":"Property damage, attempted burglary",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.12759,44.939554 ]
+    },
+    "properties": {
+    "Timestamp":"6/2/20 16:03",
+    "business_name":"Frattallone's Ace Hardware",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"650 Grand Ave",
+    "damage_cat":"Property damage",
+    "Description":"Looter tried to drive car through back door; damaged door and broke glass",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.134115,44.940139 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 16:55",
+    "business_name":"Gold'n Treasures",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"805 Grand Ave",
+    "damage_cat":"Property damage",
+    "Description":"Looting, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.136991,44.939691 ]
+    },
+    "properties": {
+    "Timestamp":"5/29/20 10:48",
+    "business_name":"Lululemon",
+    "BusinessType":"retail",
+    "New Business type":"retail",
+    "Address":"870 Grand Ave",
+    "damage_cat":"Property damage",
+    "Description":"Looting, property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.092747,44.946986 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 12:43",
+    "business_name":"Alliance Bank Center",
+    "BusinessType":"financial",
+    "New Business type":"financial",
+    "Address":"55 5th St E",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.086665,44.951467 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:21",
+    "business_name":"Speedway",
+    "BusinessType":"fuel",
+    "New Business type":"fuel",
+    "Address":"296 E 7th St",
+    "damage_cat":"Property damage",
+    "Description":"Smashed windows, looting",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.088712,44.948703 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:17",
+    "business_name":"Sibley Tower",
+    "BusinessType":"office building",
+    "New Business type":"office building",
+    "Address":"373 N Sibley St",
+    "damage_cat":"Property damage",
+    "Description":"Smashed window",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.095881,44.95048 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 12:41",
+    "business_name":"The Pointe of St Paul",
+    "BusinessType":"residence",
+    "New Business type":"residence",
+    "Address":"78 10th St E",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.093653,44.952068 ]
+    },
+    "properties": {
+    "Timestamp":"6/9/20 12:42",
+    "business_name":"Jimmy John's",
+    "BusinessType":"restaurant",
+    "New Business type":"restaurant",
+    "Address":"523 Jackson St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.091459,44.95038 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:20",
+    "business_name":"Avis/Budget",
+    "BusinessType":"services",
+    "New Business type":"services",
+    "Address":"166 E 7th St",
+    "damage_cat":"Property damage",
+    "Description":"Smashed window",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.084118,44.909952 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:07",
+    "business_name":"Dollar Tree",
+    "BusinessType":"dollar store",
+    "New Business type":"dollar store",
+    "Address":"1201 S Robert St #18",
+    "damage_cat":"Property damage",
+    "Description":"Smashed window",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.104262,44.992242 ]
+    },
+    "properties": {
+    "Timestamp":"6/11/20 11:22",
+    "business_name":"Walgreens",
+    "BusinessType":"pharmacy",
+    "New Business type":"pharmacy",
+    "Address":"1700 Rice St",
+    "damage_cat":"Property damage",
+    "Description":"Property damage",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.081682,44.889325 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 15:41",
+    "business_name":"Famous Footwear",
+    "BusinessType":"retail",
+    "New Business type":"shoe store",
+    "Address":"1881 S Robert St",
+    "damage_cat":"Property damage",
+    "Description":"Smashed window",
+    "City":"St Paul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.080096,44.896526 ]
+    },
+    "properties": {
+    "Timestamp":"6/8/20 16:03",
+    "business_name":"Vacant building",
+    "BusinessType":"vacant",
+    "New Business type":"vacant",
+    "Address":"1650 S Robert St",
+    "damage_cat":"Property damage",
+    "Description":"Broken windows",
+    "City":"St Paul"
+    }
+  }
+]
+}
